@@ -42,7 +42,3 @@ void PrintStr (string[] str)
     System.Console.Write($"{str[i]} ");  
     }
 }
-
-
-
-
